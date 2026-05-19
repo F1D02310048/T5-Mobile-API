@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pasien App</string>
+    <string name="login_title">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="daftar_pasien">Daftar Pasien</string>
+    <string name="logout">Logout</string>
+    <string name="nama">Nama:</string>
+    <string name="umur">Umur:</string>
+    <string name="jenis_kelamin">Jenis Kelamin:</string>
+    <string name="penyakit_utama">Penyakit Utama:</string>
+</resources>
